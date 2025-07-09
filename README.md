@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 B.Tech CSE Student | Frontend Explorer <br>
-  🛠 Currently building projects with HTML, CSS, JS, and Node.js <br>
+  🛠 Currently building projects with HTML, CSS and JS <br>
   🌱 Learning AI + Full Stack | Based in Kerala, India
 </p>
 
