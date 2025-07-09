@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 - 💻 HTML, CSS, JavaScript
-- ⚙️ Node.js, Express.js
 - 🌐 Git, GitHub, VS Code
 - 🧠 Exploring AI, Firebase & React
 
